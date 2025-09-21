@@ -1,3 +1,9 @@
+
+This final project is all about a aebsite dedicated foe selliing virtual airtime top up and data bundles, that people can buy easily and in good time.
+Netlify hosting platform is used for the deployment.
+
+
+
 # 📦 Final Assignment: Build, Organize, and Deploy a Multipage Website
 
 You're now ready to bring everything together—HTML, CSS, JavaScript, planning, structure, and deployment. This final project challenges you to **conceptualize, build, and deploy a multi-page website** that is responsive, interactive, and ready for the real world.
